@@ -1,5 +1,3 @@
-Revision history for Bencher-Scenarios-PerinciCmdLine
-
 0.02    2016-01-22 (PERLANCAR)
 
         - Add scenarios: PerinciCmdLine::{Input,Result}Stream.
