@@ -7,7 +7,7 @@ use 5.010001;
 use strict;
 use warnings;
 
-use App::GenPericmdCompleterScript qw(gen_perinci_cmdline_completer_script);
+use App::GenPericmdCompleterScript qw(gen_pericmd_completer_script);
 use Bencher::ScenarioUtil::Completion qw(make_completion_participant);
 use File::Temp qw(tempdir);
 use Perinci::CmdLine::Gen qw(gen_pericmd_script);
