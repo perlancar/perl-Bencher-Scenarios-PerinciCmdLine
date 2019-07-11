@@ -1,4 +1,4 @@
-0.03    2017-01-25 (PERLANCAR)
+0.03    2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,11 +7,11 @@
           type=x_benchmarks.
 
 
-0.02    2016-01-22 (PERLANCAR)
+0.02    2016-01-22  Released-By: PERLANCAR
 
         - Add scenarios: PerinciCmdLine::{Input,Result}Stream.
 
 
-0.01    2016-01-07 (PERLANCAR)
+0.01    2016-01-07  Released-By: PERLANCAR
 
         - First release.
